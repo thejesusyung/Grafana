@@ -46,7 +46,7 @@ ci/
 .eslintcache
 
 # Docker files
-docker-compose.yaml
+#docker-compose.yaml
 
 # Environment variables
 .env
